@@ -1,6 +1,7 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class Header extends Component {
+
   render() {
     console.log('items', this.props.items);
     return (
