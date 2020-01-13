@@ -14,7 +14,7 @@ const menu = [
     link: '/posts',
     label: 'Posts'
   }
-]
+];
 
 class App extends Component {
   render() {
@@ -24,7 +24,6 @@ class App extends Component {
       </div>
     );
   }
-
 }
 
 export default App;
